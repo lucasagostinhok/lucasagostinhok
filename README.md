@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Lucas Agostinho Kuskowski
+# 👋 Hello, I'm Lucas Agostinho
 
 🎓 **Bachelor in Software Engineering**  
 🌍 **Aspiring developer aiming to work remote**  
