@@ -30,14 +30,9 @@ A creative portfolio project showcasing design and development skills, inspired 
 
 ---
 
-## 📈 GitHub Stats
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasagostinhok&show_icons=true&theme=radical)
-
----
-
 ## 📫 How to Reach Me
 
 Email: lucasagostinhok@hotmail.com
+
 I'm open to collaboration and opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lucas-agostinho-kuskowski-60a3a7364/) or explore my projects here on GitHub.
 
