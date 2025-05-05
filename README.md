@@ -14,7 +14,7 @@ I'm a software engineering graduate with a strong interest in developing practic
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Dart, GDScript, JavaScript
+- **Languages:** Dart, GDScript, JavaScript, Python
 - **Frameworks:** Flutter, Godot
 - **Tools:** Git, GitHub, Visual Studio Code
 
